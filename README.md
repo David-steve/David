@@ -1,11 +1,7 @@
 # David
 
-2.  [To DO Lists](#To-DO-Lists)
-3.  [Overview](#overview)
-4.  [Guidelines](#guidelines)
-5.  [Filename](#filename)
-6.  [Contents](#contents)
-7.  [Example](#example)
+1.  [To DO Lists](#To-DO-Lists)
+
 
 ## To DO Lists
 
